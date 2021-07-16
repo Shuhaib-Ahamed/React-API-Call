@@ -4,5 +4,5 @@
  
  Features - 
  
- Regex split functions
- Cashing API data with expiry.
+ Regex split functions,
+ Caching API data with expiry.
