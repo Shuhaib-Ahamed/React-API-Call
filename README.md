@@ -1,4 +1,4 @@
-# react-api-call
+# React-API-call
  
  A simple application calling an rest API and using regEX to manupliate data representation.
  
